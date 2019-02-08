@@ -1,19 +1,17 @@
 ---
 layout: page
 title: Syllabus
-catalog: WIS 6934
 credits: 3
-semester: Fall 2018
-professor: Dr. Ethan White
+semester: Summer 2019
+professor: Dr. Marco Chiapello
 office: Room 1 in Building 150 (just north of Newins-Zeigler)
-email: ethanwhite@ufl.edu
-phone: 352-294-2081
-schedule: ['Tuesdays, 12:50-1:40', 'Fridays, 11:45-1:40']
-location: 219 Newins-Ziegler Hall
+email: chiapello.m@gmail.com
+schedule: ['Fridays, 14:00-18:00']
+location: Via P.Giuria
 office_hours: Monday 2-3:15
-office_hours_location: Newins-Zeigler 203
-TA: Andrew Marx
-TA_email: andrewjmarx@ufl.edu
+office_hours_location: Strada delle cacce 73
+TA: Silvia Perotto
+TA_email: silvia.perotto@unito.it
 ---
 
 ## Course
