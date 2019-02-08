@@ -11,8 +11,8 @@ permalink:        pretty
 # Setup
 title:            Master course
 description:      'Teaching the tools to get computers to do cool science'
-url:              http://mchiapello.github.io/semester-biology
-baseurl:          /semester-biology
+url:              http://mchiapello.github.io/2019_Master_Course
+baseurl:          /2019_Master_Course
 email:            chiapello.m@gmail.com
 feedbackurl:      polleverywhere.com/multiple_choice_polls/KznOEBvSAnahmt7
 author:
@@ -20,5 +20,5 @@ author:
   url:            https://twitter.com/marpello1980
 
 github:
-  repo:           https://github.com/mchiapello/semester-biology
+  repo:           https://github.com/mchiapello/2019_Master_Course
   #               Be sure the 'Issues' feature is activated in 'Settings'
