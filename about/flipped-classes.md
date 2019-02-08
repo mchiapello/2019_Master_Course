@@ -3,8 +3,8 @@ layout: page
 title: Flipped Classes
 ---
 
-I use a flipped, learner-centered, approach to teaching both of
-these classes, because I think that learning to program has very little
+I will use a flipped, learner-centered, approach to teaching
+this class, because I think that learning to program has very little
 to do with me talking and a lot to do with students working on
 computers. Flipped classes work well for all kinds of content, but I
 think they work particularly well for computer oriented classes. If
