@@ -9,16 +9,16 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Data Carpentry for Biologists
+title:            Master Course
 description:      'Teaching the tools to get computers to do cool science'
-url:              http://www.datacarpentry.org/semester-biology
-baseurl:          /semester-biology
-email:            datacarpentrysemester@weecology.org
+url:              http://mchiapello.github.io/2019_Master_Course
+baseurl:          /2019_Master_Course
+email:            chiapello.m@gmail.com
 feedbackurl:      https://docs.google.com/forms/d/e/1FAIpQLSdV_polFmoukgjcs1IC0Dd4iO1rdgwFnOds28xC_ma_z4tNIw
 author:
-  name:           'Ethan White'
-  url:            https://twitter.com/ethanwhite
+  name:           'Marco Chiapello'
+  url:            https://twitter.com/marpello1980
 
 github:
-  repo:           https://github.com/datacarpentry/semester-biology
+  repo:           https://mchiapello.github.io/2019_Master_Course
   #               Be sure the 'Issues' feature is activated in 'Settings'
