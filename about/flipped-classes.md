@@ -10,4 +10,4 @@ computers. Flipped classes work well for all kinds of content, but I
 think they work particularly well for computer oriented classes. If
 you're interested in knowing more take a look at this link:
 
-[Flipped Classroom](https://en.wikipedia.org/wiki/Flipped_classroom(http://www.knewton.com/flipped-classroom/)
+https://en.wikipedia.org/wiki/Flipped_classroom(http://www.knewton.com/flipped-classroom/
