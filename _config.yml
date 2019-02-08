@@ -9,7 +9,7 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Master course
+title:            'Master course'
 description:      'Teaching the tools to get computers to do cool science'
 url:              http://mchiapello.github.io/2019_Master_Course
 baseurl:          /2019_Master_Course
