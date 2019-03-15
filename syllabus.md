@@ -7,7 +7,7 @@ professor: Dr. Marco Chiapello
 office: Istituto per la Protezione Sostenibile delle Piante, Strada delle cacce 73
 email: chiapello.m@gmail.com
 schedule: ['Fridays, 14:00-18:00']
-location: Via P.Giuria
+location: to be defined
 office_hours: Monday 14-17
 office_hours_location: Istituto per la Protezione Sostenibile delle Piante, Strada delle cacce 73
 TA: Silvia Perotto
@@ -18,7 +18,7 @@ TA_email: silvia.perotto@unito.it
 
 {{ site.title }}
 
-{{ page.catalog }}, {{ page.credits }} Credits, {{ page.semester }}
+{{ page.credits }} Credits, {{ page.semester }}
 
 ### Instructor
 
@@ -26,7 +26,7 @@ TA_email: silvia.perotto@unito.it
 
 Office: {{ page.office }}
 
-Email (best way to contact us):
+Email (best way to contact me):
 [{{ page.email }}](mailto:{{ page.email }})
 
 
