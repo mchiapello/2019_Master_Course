@@ -9,8 +9,8 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            'Elaborazione dati'
-description:      'Master: CONTROLLO BIOLOGICO DEI PROCESSI E DEI PRODOTTI DELL'INDUSTRIA'
+title:            Controllo Biologico dei processi e dei prodotti dell'industria
+description:      'Modulo: Elaborazione dati'
 url:              http://mchiapello.github.io/2019_Master_Course
 baseurl:          /2019_Master_Course
 email:            chiapello.m@gmail.com
