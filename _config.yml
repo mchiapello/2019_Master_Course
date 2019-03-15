@@ -9,7 +9,7 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Modulo: Elaborazione dati
+title:            Elaborazione dati
 description:      'Controllo biologico dei processie dei prodotti dell'industria'
 url:              http://mchiapello.github.io/2019_Master_Course
 baseurl:          /2019_Master_Course
