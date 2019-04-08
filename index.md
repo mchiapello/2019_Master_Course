@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Questo sito ospita il materiale introduttivo per insegnare ai biologi come interagire con i dati, includendo: la struttura dei dati, la programmazione per la manipolazione, l'analisi e la visualizzazione dei dati.
+Questo sito ospita il materiale introduttivo per insegnare come interagire con i dati, includendo: la struttura dei dati, la programmazione per la manipolazione, l'analisi e la visualizzazione dei dati.
 
 Informazioni generali
 : <a href="{{ site.baseurl}}/syllabus">
