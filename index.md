@@ -2,16 +2,13 @@
 layout: default
 ---
 
-This website hosts introductory material for teaching biologists how to interact
-with data including: data structure and
-programming for data manipulation, analysis, and visualization. It is designed
-to be used as a flipped university course. 
+Questo sito ospita il materiale introduttivo per insegnare ai biologi come interagire con i dati, includendo: la struttura dei dati, la programmazione per la manipolazione, l'analisi e la visualizzazione dei dati.
 
-General information
+Informazioni generali
 : <a href="{{ site.baseurl}}/syllabus">
-  <i class="fa fa-file-text-o fa-fw"></i> Syllabus</a>
+  <i class="fa fa-file-text-o fa-fw"></i> Programma</a>
 : <a href="{{ site.baseurl}}/schedule">
-  <i class="fa fa-calendar fa-fw"></i> Schedule</a>
+  <i class="fa fa-calendar fa-fw"></i> Organizzazione</a>
 : <a href="{{ site.baseurl}}/computer-setup">
   <i class="fa fa-download fa-fw"></i> Setup</a>
 : <a href="{{ site.baseurl }}/materials/turn-in-checklist">
@@ -19,7 +16,7 @@ General information
 : <a href="{{ site.baseurl}}/materials/datasets">
   <i class="fa fa-download fa-fw"></i> Datasets</a>
 
-Course material
+Materiale del corso
 : <a href="{{ site.baseurl}}/readings">
   <i class="fa fa-book fa-fw"></i> Readings</a>
 : <a href="{{ site.baseurl}}/lectures">
