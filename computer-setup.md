@@ -3,9 +3,6 @@ layout: page
 title: Computer Setup
 ---
 
-### SQL
-
-Download and install [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/). Add the [SQLite Manager](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/).
 
 ### R
 
