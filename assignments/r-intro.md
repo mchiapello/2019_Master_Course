@@ -1,7 +1,7 @@
 ---
 layout: page
 element: assignment
-title: Introduction to R and RStudio
+title: Introduzione a R e RStudio
 language: R
 exercises: ['Basic Expressions', 'Basic Variables', 'More Variables', 'Built-in Functions', 'Modify the Code', 'Code Shuffle', 'Bird Banding', 'Shrub Volume Vectors', 'Shrub Volume Data Frame']
 ---
