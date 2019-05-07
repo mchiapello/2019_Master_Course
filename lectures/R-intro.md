@@ -1,7 +1,7 @@
 ---
 layout: page
 element: lecture
-title: Introduction to R and RStudio
+title: Introduzione a R e RStudio
 language: R
 ---
 
