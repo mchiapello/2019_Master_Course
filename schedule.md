@@ -2,7 +2,7 @@
 layout: page
 title: Programma del corso
 assignments: ['Data Entry and Storage', 'Database Queries',
-'Introduction to R and RStudio', ' ”Hurricane Week” ', 'Working with Data', 'Data Visualization',
+'Introduzione a R e RStudio', ' ”Hurricane Week” ', 'Working with Data', 'Data Visualization',
 'Projects Structure', 'Version Control', 'Working with Spatial Data', 'Programming Fundamentals 1',
 'Programming Fundamentals 2', 'Project Week', 'Knitr',
 'gganimate', 'tidyr', 'Project Week']
