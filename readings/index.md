@@ -3,10 +3,6 @@ layout: page
 title: Readings
 ---
 
-### SQL
-
-* [Data Entry and Storage](SQL-data)
-* [Database Queries](SQL-queries)
 
 ### R
 
@@ -23,6 +19,3 @@ title: Readings
 * [Advanced Topics](R-advanced)
 * [Additional Resources](R-additional)
 
-### Git
-
-* [Git with R](R-git)
